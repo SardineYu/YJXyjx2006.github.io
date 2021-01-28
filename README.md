@@ -1,2 +1,2 @@
-# YJXyjx2006.github.io
+# YJX的留言条
 123
