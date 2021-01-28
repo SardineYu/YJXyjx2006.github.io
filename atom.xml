@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yjxyjx2006.GitHub.io</id>
+    <id>https://yjxyjx2006.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-28T06:32:00.888Z</updated>
+    <updated>2021-01-28T06:33:44.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yjxyjx2006.GitHub.io"/>
-    <link rel="self" href="https://yjxyjx2006.GitHub.io/atom.xml"/>
+    <link rel="alternate" href="https://yjxyjx2006.github.io"/>
+    <link rel="self" href="https://yjxyjx2006.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://yjxyjx2006.GitHub.io/images/avatar.png</logo>
-    <icon>https://yjxyjx2006.GitHub.io/favicon.ico</icon>
+    <logo>https://yjxyjx2006.github.io/images/avatar.png</logo>
+    <icon>https://yjxyjx2006.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yjxyjx2006.GitHub.io/post/hello-gridea/</id>
-        <link href="https://yjxyjx2006.GitHub.io/post/hello-gridea/">
+        <id>https://yjxyjx2006.github.io/post/hello-gridea/</id>
+        <link href="https://yjxyjx2006.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
