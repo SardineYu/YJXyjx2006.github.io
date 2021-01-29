@@ -1,2 +1,2 @@
 # YJXyjx2006.github.io
-fuck you
+恭喜你上当了doge
